@@ -3,7 +3,7 @@ token:
   secret: user_token_native_user_service
 
 gateway:
-  ip: 172.18.0.5
+  ip: 172.18.0.11
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
